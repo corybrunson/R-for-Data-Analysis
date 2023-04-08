@@ -1,12 +1,12 @@
 # Getting Familiar with R Studio
 
-To begin, we are going to walkthrough how to customize your version of R Studio to make it the most comfortable environment for you personally. Following this, we are going to walk through the four panes of R Studio. At a glance, R Studio may seem overwhelming; however, by the end of this chapter you will have learned the essentials needed to embark on your data analysis journey.
+To begin, we are going to walk through how to customize your version of R Studio to make it the most comfortable environment for you personally. Following this, we are going to walk through the four panes of R Studio. At a glance, R Studio may seem overwhelming; however, by the end of this chapter you will have learned the essentials needed to embark on your data analysis journey.
 
 ## Customization
 
 You are able to customize how your version of R Studio looks by following these steps:
 
-1. Open R Studio and choose ‘tools’ from the toolbar
+1. Open R Studio and choose ‘Tools’ from the toolbar
 
 ```{r out.extra="style='background-color: #9ecff7; padding:10px; display: block; margin-left: auto; margin-right: auto; width: 80%;'"}
 #| label: customize-r-studio-1
